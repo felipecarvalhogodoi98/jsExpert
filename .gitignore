@@ -1,1 +1,3 @@
-.sql
+*.sql
+./coverage
+.nyc_output
