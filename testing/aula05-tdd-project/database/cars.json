@@ -1,0 +1,30 @@
+[
+  {
+    "id": "7254116f-d68f-42f7-afd5-8fcaa5fc2c99",
+    "name": "Grand Caravan",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "65d5f2d4-3601-4494-8d98-8f013ef59ab4",
+    "name": "Sentra",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "5145d4e1-5cac-4adc-83e9-869b975db0d5",
+    "name": "Fiesta",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "06142490-75a7-41e4-90bc-2f2be7372ca2",
+    "name": "Silverado",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  }
+]
